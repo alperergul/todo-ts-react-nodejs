@@ -32,7 +32,7 @@ export const TaskCounter: FC<ITaskCounter> = (
           }}
         >
           <Typography color="#ffffff" variant="h4">
-            10
+            {count}
           </Typography>
         </Avatar>
         <Typography
