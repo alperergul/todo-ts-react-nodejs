@@ -9,8 +9,11 @@
 ##### To run project ⚙️
 
 ```bash
-$npm install
-$npm start
+npm install
+```
+
+```bash
+npm start
 ```
 
 ## Backend 🚀
@@ -23,6 +26,13 @@ $npm start
 ##### To run project ⚙️
 
 ```bash
-$npm install
-$npm run dev
+npm install
 ```
+
+```bash
+npm run dev
+```
+
+## Project UI 🎨
+
+![alt text](image-2.png)
